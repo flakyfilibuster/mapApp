@@ -1,8 +1,8 @@
 {
-  "name": "p5",
-  "version": "0.0.0",
+  "name": "mapApp",
+  "version": "1.0",
   "authors": [
-    "welldoneplease"
+    "flakyfilibuster"
   ],
   "description": "nanodegree map app",
   "main": "index.html",
@@ -11,9 +11,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "devDependencies": {
     "knockoutjs": "~3.2.0",
