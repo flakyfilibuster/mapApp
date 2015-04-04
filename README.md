@@ -26,16 +26,16 @@ Create a map with selected Points of Interests.
 
 
 #### Check your POIs
-![overview](Readme/pic01.png?raw=true "overview")
+![overview](Readme/01.png?raw=true "overview")
 
 #### Select via Markers or Dropdown list
-![select](Readme/pic02.png?raw=true "select")
+![select](Readme/02.png?raw=true "select")
 
 #### Search POIs
-![search](Readme/pic03.png?raw=true "search")
+![search](Readme/03.png?raw=true "search")
 
 #### Infowindow with Flickr img and Wiki text
-![infowindow](Readme/pic04.png?raw=true "infowindow")
+![infowindow](Readme/04.png?raw=true "infowindow")
 
 #### Responsive layout
-![responsive](Readme/pic05.png?raw=true "responsive")
+![responsive](Readme/05.png?raw=true "responsive")
