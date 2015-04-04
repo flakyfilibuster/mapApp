@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map-canvas {
+  height: calc(100% - 50px);
+}
+
+.navbar.navbar-default {
+  position: relative;
+  z-index: 999;
+  top: 0;
+  width: 100%;
+  margin: 0;
+}
+
+.points-of-interest {
+  cursor: pointer;
+}
+
+.gm-style-iw {
+  width: 450px;
+  padding-bottom: 10px;
+}
+
+#flickr {
+  min-height: 150px;
+  min-width: 150px;
+  float: left;
+  padding-right: 10px;
+}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+
+.gm-style-iw {
+  width: 80%;
+}
+
+}
